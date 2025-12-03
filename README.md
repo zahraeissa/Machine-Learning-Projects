@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-mastering the basic topic in machine learning 
+mastering the basic topics in machine learning 
